@@ -1,3 +1,9 @@
+# Miles' Sass in-class
+
+By Miles Crenwelge, Intro Coding for Journalists class
+
+This repo is a class assignment to learn Sass. It is due March 12, 2021.
+
 # Lesson to refactor CSS to SCSS
 
 A template to use in learning Sass. See the [ICJ class](https://github.com/utdata/icj-class#sass) for more info.
