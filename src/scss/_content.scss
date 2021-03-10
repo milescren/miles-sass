@@ -1,0 +1,41 @@
+.content {
+  width: 85%;
+  min-height: 750px;
+  min-width: 600px;
+  background-color: $secondary-color;
+
+  > * {
+    padding-left: 30px;
+  }
+
+  p {
+    width: 55%;
+    min-width: 550px;
+  }
+
+  img, video {
+    height: 350px;
+    width: 550px;
+    margin-bottom: 30px;
+  }
+
+  p, ul, ol, dl {
+      font-size: 1.75rem;
+    }
+
+  a:link {
+    color: darkturquoise;
+    text-decoration: underline;
+  }
+
+  a:visited {
+    color: darkturquoise;
+  }
+
+  ul {
+    list-style-type: circle;
+    list-style: inside;
+  }
+}
+
+
